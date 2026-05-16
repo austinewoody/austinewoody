@@ -1,6 +1,6 @@
 # Hey, I'm Austine Onwubiko 👋
 
-Software Engineer | Cybersecurity Researcher | PhD Candidate  
+Software Engineer | Cybersecurity Researcher | PhD Candidate | ORCID: 0009-0005-3214-1857 
 
 I build secure digital systems, Python tools, and real-world web applications.
 
@@ -74,3 +74,4 @@ Secure memories, will vaults, pets module, reminders and legacy release system.
 - GitHub: https://github.com/austinewoody
 - PyPI: https://pypi.org/user/austinewoody/
 - LinkedIn: https://www.linkedin.com/in/austine-onwubiko-914889140/
+- ORCID: https://orcid.org/0009-0005-3214-1857
