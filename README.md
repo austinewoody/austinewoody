@@ -61,9 +61,13 @@ Secure memories, will vaults, pets module, reminders and legacy release system.
 
 ## GitHub Stats
 
-![Austine's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinewoody&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=austinewoody&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinewoody&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinewoody&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
