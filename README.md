@@ -61,13 +61,9 @@ Secure memories, will vaults, pets module, reminders and legacy release system.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinewoody&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![](https://komarev.com/ghpvc/?username=austinewoody&color=blue)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinewoody&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=austinewoody&theme=github_dark)
 
 ---
 
