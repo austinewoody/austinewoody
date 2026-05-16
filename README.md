@@ -73,3 +73,4 @@ Secure memories, will vaults, pets module, reminders and legacy release system.
 - Portfolio: https://austineonwubiko.com
 - GitHub: https://github.com/austinewoody
 - PyPI: https://pypi.org/user/austinewoody/
+- LinkedIn: https://www.linkedin.com/in/austine-onwubiko-914889140/
