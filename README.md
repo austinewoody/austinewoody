@@ -46,6 +46,7 @@ Secure memories, will vaults, pets module, reminders and legacy release system.
 - `collide-circle`
 - `world-data-austine`
 - `morsekit`
+- `pymentorbot`
 
 ---
 
